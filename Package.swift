@@ -3,15 +3,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "ArviCore",
+    name: "StaticLib",
     products: [
         .library(
-            name: "ArviCore",
+            name: "StaticLib",
             type: .static,
-            targets: ["ArviCore"]
+            targets: ["StaticLib"]
         )
     ],
     targets: [
-        .target(name: "ArviCore")
+        .target(name: "StaticLib")
     ]
 )
