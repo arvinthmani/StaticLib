@@ -1,7 +1,0 @@
-Target dependency graph (3 targets)
-Target 'AllExcludingTests' in project 'Aggregate'
-➜ Explicit dependency on target 'ArviCore-product' in project 'ArviCore'
-➜ Explicit dependency on target 'ArviCore' in project 'ArviCore'
-Target 'ArviCore-product' in project 'ArviCore'
-➜ Explicit dependency on target 'ArviCore' in project 'ArviCore'
-Target 'ArviCore' in project 'ArviCore' (no dependencies)

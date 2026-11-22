@@ -1,4 +1,0 @@
-module ArviCore {
-header "ArviCore-Swift.h"
-export *
-}
