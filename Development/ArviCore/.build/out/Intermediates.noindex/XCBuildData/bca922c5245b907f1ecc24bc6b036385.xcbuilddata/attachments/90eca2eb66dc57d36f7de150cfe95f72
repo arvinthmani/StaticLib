@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/ArviCore-primary.dia",
+    "emit-module-dependencies" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/ArviCore-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/ArviCore-primary-emit-module.dia",
+    "pch" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/ArviCore-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/ArviCore-primary.swiftdeps"
+  },
+  "/Users/arvinth/Development/ArviCore/Sources/ArviCore/Calculator.swift" : {
+    "const-values" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.swiftconstvalues",
+    "dependencies" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.d",
+    "diagnostics" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.dia",
+    "index-unit-output-path" : "/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.o",
+    "llvm-bc" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.bc",
+    "object" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.o",
+    "swift-dependencies" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator.swiftdeps",
+    "swiftmodule" : "/Users/arvinth/Development/ArviCore/.build/out/Intermediates.noindex/ArviCore.build/Debug/ArviCore-t.build/Objects-normal/arm64/Calculator~partial.swiftmodule"
+  }
+}
